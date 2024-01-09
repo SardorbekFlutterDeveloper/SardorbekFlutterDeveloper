@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardorbekflutterdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbekflutterdeveloper" /> </p>
 <img align="right" alt = "Coding" width="400" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-- 🌱 I’m currently learning **Flutter, Dart, OOP...
+- 🌱 I’m learning better **Flutter, Dart, OOP...
 
 - 💬 Ask me about **Dart, Bloc, Provider**
 
